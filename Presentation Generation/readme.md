@@ -39,10 +39,10 @@ To download the program from GitHub without a GitHub account, follow these steps
 Alternatively, you can use the following command to download the repository using `wget` (Linux and macOS) or `curl` (Windows):
 ```sh
 # Using wget (Linux and macOS)
-wget https://github.com/Borui66111/My-UI.git -O presentation_program.zip
+wget https://github.com/Borui66111/UI-Test/archive/refs/heads/main.zip -O presentation_program.zip
 
 # Using curl (Windows)
-curl -L https://github.com/Borui66111/My-UI.git -o presentation_program.zip
+curl -L https://github.com/Borui66111/My-UI/archive/refs/heads/main.zip -o presentation_program.zip
 
 # Extract the ZIP file
 unzip presentation_program.zip
