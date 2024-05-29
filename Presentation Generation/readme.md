@@ -74,7 +74,7 @@ To run the Presentation Generation program, use the following steps:
 1. Ensure you are in the directory where the program files are located.
 2. Execute the program using Python:
 ```sh
-cd ./console
+cd ./presentation_program/UI-Test-main/Presentation Generation/console
 python test.py
 ```
 Replace `test.py` with the actual name of the Python script that starts the program if it is different.
