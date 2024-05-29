@@ -1,0 +1,13 @@
+langchain 
+python-pptx 
+openai 
+opencv-python 
+python-dotenv 
+tqdm 
+pydantic
+typing
+absl-py
+langchain-openai
+matplotlib
+BeautifulSoup4
+# pip install -r requirements.txt
